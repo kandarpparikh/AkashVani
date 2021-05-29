@@ -1,0 +1,2 @@
+# AkashVani
+is a word of Sanskrit origin meaning "celestial announcement", or "voice from the sky/heaven" .  As there is low supply and high demand for vaccines , it is difficult to book slots for vaccination on cowin website. This project would notify the user via mail as soon as the vaccine slot is available in the nearby areas which are defined by pincodes. It notifies the user via mail about the vaccines which can save lives , thus the project name is AkashVani , considering the vaccine notification as a notification from heaven.
