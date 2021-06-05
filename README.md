@@ -92,4 +92,17 @@ word length 0
 Pause & avoid [403] , 3 secs
 ```
 
+# Add or remove EmailId or Pincodes
+- You can add or remove Email-IDs or/and Pincodes from userdata.py while the script is running . No need to stop the script for this.
+
+# Kill the Process
+- If you decide to stop the script use the below process.
+- To stop the script on server 
+```
+pkill -f vaccine_notifier.py
+```
+- Remove the log file
+```
+rm -rf output.log 
+```
 
