@@ -49,7 +49,7 @@ email_doe="dpdhruvprajapati@gmail.com"
 - This will ensure that the python file keeps on running even if ssh session ends or you quit the server. 
 - If you are running the script on windows (Personal Computer) , you will have to keep the Laptop ON.
 ```
-nohup python3 -u vaccine_notifier.py > output.log &
+nohup python3 -u main.py > output.log &
 ```
 
 # Log file
@@ -99,7 +99,7 @@ Pause & avoid [403] , 3 secs
 - If you decide to stop the script use the below process.
 - To stop the script on server 
 ```
-pkill -f vaccine_notifier.py
+pkill -f main.py
 ```
 - Remove the log file
 ```
